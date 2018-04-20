@@ -1,0 +1,19 @@
+{
+  "name": "RequsetHeader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "request.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.3",
+    "expres": "^0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node request.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
